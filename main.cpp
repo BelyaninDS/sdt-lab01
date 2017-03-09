@@ -2,7 +2,7 @@
 
 using namespace std;
 
-int main()
+int main()      //учебная программа
   {
     int a, b;
 
